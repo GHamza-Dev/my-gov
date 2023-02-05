@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/department/department.iml" filepath="$PROJECT_DIR$/department/department.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery/discovery.iml" filepath="$PROJECT_DIR$/discovery/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mef-service/mef-service.iml" filepath="$PROJECT_DIR$/mef-service/mef-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ministry/ministry.iml" filepath="$PROJECT_DIR$/ministry/ministry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mt-service/mt-service.iml" filepath="$PROJECT_DIR$/mt-service/mt-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-gov.iml" filepath="$PROJECT_DIR$/my-gov.iml" />
+    </modules>
+  </component>
+</project>
