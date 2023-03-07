@@ -1,0 +1,23 @@
+[submodule "department"]
+	path = department
+	url = https://github.com/GHamza-Dev/my-gov-department
+	
+[submodule "discovery"]
+	path = discovery
+	url = https://github.com/GHamza-Dev/my-gov-discovery
+
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/GHamza-Dev/my-gov-gateway
+
+[submodule "mef-service"]
+	path = mef-service
+	url = https://github.com/GHamza-Dev/my-gov-mef-service
+
+[submodule "ministry"]
+	path = ministry
+	url = https://github.com/GHamza-Dev/my-gov-ministry
+
+[submodule "mt-service"]
+	path = mt-service
+	url = https://github.com/GHamza-Dev/my-gov-mt-service
